@@ -13,3 +13,16 @@ section{
     align-items: center;
 }
 
+.footer h2 {
+    padding: 10px;
+    clear: both;
+    text-align: center;
+    font-size: 19px;
+    margin-top: 50px;
+}
+
+.footer p {
+    font-size: 19px;
+    color: white;
+    text-align: center;
+}
